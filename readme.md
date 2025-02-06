@@ -1,8 +1,8 @@
 # Project-1
 
-#Name: Mohammad Imtiyaz
+# Name: Mohammad Imtiyaz
 
-### this Project took almost 2days to complete.
+### this Project took almost 2 days to complete.
 
 ### What I learned in this project:
 
